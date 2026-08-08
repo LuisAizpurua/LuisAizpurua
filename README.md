@@ -127,6 +127,59 @@ Academic project focused on the management and monitoring of drone swarms.
 </p>
 
 ---
+
+## TaLleno Panama 📲​🚦​
+
+<table>
+<tr>
+<td width="55%" valign="middle">
+
+### ¿Qué tan lleno está?
+
+**TaLleno** es una plataforma creada para ayudar a las personas en Panamá a conocer, en tiempo real, qué tan concurridos están diferentes lugares.
+
+Los usuarios pueden reportar cómo se encuentra un lugar y consultar información cercana para decidir **dónde ir y cuándo hacerlo**.
+
+**Real-time · Community-driven · Panama 🇵🇦**
+
+<br>
+
+<a href="https://talleno.site/">
+  <img src="https://img.shields.io/badge/🌐_Visit_TaLleno-111827?style=for-the-badge" />
+</a>
+
+</td>
+
+<td width="45%" align="center">
+
+<a href="https://talleno.site/">
+  <img src="https://amzn-images-public.s3.us-east-1.amazonaws.com/image-portfolio/projects/talleno-logo.png" width="120" />
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Status-Live-22C55E?style=flat-square" />
+<img src="https://img.shields.io/badge/Panama-🇵🇦-0072CE?style=flat-square" />
+
+</td>
+</tr>
+</table>
+
+
+> **The pulse of Panama — in real time.**🫀​
+
+TaLleno busca transformar reportes de la comunidad en información útil para conocer lo que está pasando **ahora**, desde lugares cómodos hasta lugares con mayor concurrencia.
+
+`📍 Real-time reports` · `🗺️ Interactive map` · `📱 Responsive` · `❤️ Favorites` · `👥 Community`
+
+<p align="center">
+  <a href="https://talleno.site/">
+    <img src="https://img.shields.io/badge/Explore_TaLleno-Visit_Project-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+
+---
 <div align="center">
 
 ```text
