@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1I05M4httBYOP_TVwNzUiiK4A_D_3mBAY/view" width="100%" />
+  <img src="https://github.com/LuisAizpurua/images-public/blob/main/public/Linkedin%20Banner%20Moises.png" width="100%" />
 </p>
 
 <h1 align="center">Luis Aizpurua</h1>
@@ -157,7 +157,7 @@ Los usuarios pueden reportar cómo se encuentra un lugar y consultar informació
 <br>
 
 <a href="https://talleno.site/">
-  <img src="https://img.shields.io/badge/🌐_Visit_TaLleno-111827?style=for-the-badge" />
+  <img src="https://github.com/LuisAizpurua/images-public/blob/main/public/talleno-logo.png" />
 </a>
 
 </td>
@@ -165,7 +165,7 @@ Los usuarios pueden reportar cómo se encuentra un lugar y consultar informació
 <td width="45%" align="center">
 
 <a href="https://talleno.site/">
-  <img src="https://amzn-images-public.s3.us-east-1.amazonaws.com/image-portfolio/projects/talleno-logo.png" width="120" />
+  <img src="https://github.com/LuisAizpurua/images-public/blob/main/public/talleno-logo.png" width="120" />
 </a>
 
 <br><br>
