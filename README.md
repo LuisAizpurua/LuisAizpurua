@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1I05M4httBYOP_TVwNzUiiK4A_D_3mBAY/view?usp=sharing" width="100%" />
+  <img src="https://drive.google.com/file/d/1I05M4httBYOP_TVwNzUiiK4A_D_3mBAY/view" width="100%" />
 </p>
 
 <h1 align="center">Luis Aizpurua</h1>
