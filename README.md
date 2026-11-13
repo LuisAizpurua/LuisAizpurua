@@ -51,7 +51,7 @@ Backend focused on authentication, authorization and secure API design.
 
 **Java · Spring Boot · Spring Security · JWT · Docker**
 
-<a href="https://github.com/LuisAizpurua">
+<a href="https://github.com/LuisAizpurua/springboot-jwt-authentication-docker">
   <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 
@@ -97,6 +97,20 @@ Desktop application for data management and report generation.
 **Java · Swing · JasperReports · MySQL**
 
 <a href="https://github.com/LuisAizpurua/app-report-java">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🚀🌨️ Terraform EC2 aws
+
+Demonstration of Infrastructure as Code (IaC) using Terraform to deploy an Amazon EC2 instance running Amazon Linux 2023 on AWS..
+
+**Terraform · HCL · AWS**
+
+<a href="https://github.com/LuisAizpurua/terraform-aws-ec2-demo">
   <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 
