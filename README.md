@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://amzn-images-public.s3.us-east-1.amazonaws.com/image-portfolio/Linkedin%20Banner%20Moises.png" width="100%" />
+  <img src="https://drive.google.com/file/d/1I05M4httBYOP_TVwNzUiiK4A_D_3mBAY/view?usp=sharing" width="100%" />
 </p>
 
 <h1 align="center">Luis Aizpurua</h1>
@@ -101,7 +101,7 @@ Desktop application for data management and report generation.
 </a>
 
 </td>
-
+<tr>
 <td width="50%">
 
 ### 🚀🌨️ Terraform EC2 aws
@@ -115,9 +115,7 @@ Demonstration of Infrastructure as Code (IaC) using Terraform to deploy an Amazo
 </a>
 
 </td>
-</tr>
 
-<tr>
 <td width="50%">
 
 ### 🚁 Swarm Control System
